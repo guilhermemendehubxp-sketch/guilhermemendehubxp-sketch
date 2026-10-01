@@ -24,16 +24,6 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 | <a href="[https://github.com/guilhermemendehubxp-sketch/github-readme-stats](https://github-readme-stats-lac-three-49.vercel.app/api?username=guilhermemendehubxp-sketch&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)"><img align="center" src="https://github-readme-stats-lac-three-49.vercel.app/api?username=guilhermemendehubxp-sketch&count_private=true&show_icons=true&repo=github-readme-stats&include_all_commits=true&theme=buefy&hide_border=true" alt="Guilherme github stats" /></a> | <a href="https://github.com/guilhermemendehubxp-sketch/github-readme-stats"><img align="center" src="https://github-readme-stats-lac-three-49.vercel.app/api/top-langs/?username=guilhermemendehubxp-sketch&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/guilhermemendehubxp-sketch/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lac-three-49.vercel.app/api/pin/?username=guilhermemendehubxp-sketch&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/afya-educon/educon-areaaluno.nextjs">
-  <img align="center" src="https://github-readme-stats-lac-three-49.vercel.app/api/pin/?username=guilhermemendehubxp-sketch&repo=educon-areaaluno.nextjs&theme=buefy" />
-</a>
-
 <br />
 <br />
 
