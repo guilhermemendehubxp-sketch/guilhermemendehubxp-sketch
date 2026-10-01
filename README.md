@@ -28,10 +28,10 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 
 <a href="https://github.com/guilhermemendehubxp-sketch/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-lac-three-49.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-lac-three-49.vercel.app/api/pin/?username=guilhermemendehubxp-sketch&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/guilhermemendehubxp-sketch/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats-lac-three-49.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-lac-three-49.vercel.app/api/pin/?username=guilhermemendehubxp-sketch&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
 <br />
