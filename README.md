@@ -31,7 +31,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
   <img align="center" src="https://github-readme-stats-lac-three-49.vercel.app/api/pin/?username=guilhermemendehubxp-sketch&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/afya-educon/educon-areaaluno.nextjs">
-  <img align="center" src="https://github-readme-stats-lac-three-49.vercel.app/api/pin/?username=guilhermemendehubxp-sketch&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-lac-three-49.vercel.app/api/pin/?username=guilhermemendehubxp-sketch&repo=educon-areaaluno.nextjs&theme=buefy" />
 </a>
 
 <br />
