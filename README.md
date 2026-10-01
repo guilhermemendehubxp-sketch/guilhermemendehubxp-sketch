@@ -21,7 +21,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/guilhermemendehubxp-sketch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermemendehubxp-sketch&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Guilherme github stats" /></a> | <a href="https://github.com/guilhermemendehubxp-sketch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemendehubxp-sketch&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/guilhermemendehubxp-sketch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermemendehubxp-sketch&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&theme=buefy&hide_border=true" alt="Guilherme github stats" /></a> | <a href="https://github.com/guilhermemendehubxp-sketch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemendehubxp-sketch&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
