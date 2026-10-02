@@ -23,13 +23,3 @@ I'm a self-taught passionate Fullstach developer from Brazil BR
 
 | <a href="https://github.com/guilhermemendehubxp-sketch/github-readme-stats"><img align="center" src="https://github-readme-stats-lac-three-49.vercel.app/api?username=guilhermemendehubxp-sketch&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Guilherme github stats" /></a> | <a href="https://github.com/guilhermemendehubxp-sketch/github-readme-stats"><img align="center" src="https://github-readme-stats-lac-three-49.vercel.app/api/org-top-langs?layout=compact&langs_count=6&theme=buefy&hide_border=true" alt="Guilherme professional languages" /></a> |
 | ------------- | ------------- |
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
