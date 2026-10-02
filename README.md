@@ -1,8 +1,8 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Guilherme. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate Fullstach developer from Brazil BR
 
 **About me**
 
@@ -12,7 +12,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/guilhermemendehubxp-sketch/guilhermemendehubxp-sketch/issues)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
